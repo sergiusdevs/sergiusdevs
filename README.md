@@ -1,8 +1,9 @@
 <h1 align="center">¡Hola! 👋 Soy SergiusDev</h1>
 
 <p align="center">
-  🚀 Desarrollador apasionado por la tecnología y la arquitectura de software.<br/>
-  🧠 Siempre aprendiendo, creando y compartiendo.
+  📱 Desarrollador móvil fullstack con enfoque en iOS y Android.<br/>
+  🚀 Apasionado por crear aplicaciones nativas y multiplataforma modernas y escalables.<br/>
+  🧠 Siempre aprendiendo nuevas tecnologías y optimizando la experiencia del usuario.
 </p>
 
 ---
@@ -11,40 +12,58 @@
 
 #### 💻 Lenguajes
 <p>
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" />
 </p>
 
-#### 📊 Bases de datos
+#### 📱 Frameworks y Librerías
 <p>
+  <img src="https://img.shields.io/badge/-SwiftUI-FA7343?style=flat&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jetpack Compose-4285F4?style=flat&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+</p>
+
+#### 📊 Bases de datos y backend
+<p>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
 </p>
 
----
-
-### 🛠️ Habilidades
-
-- Desarrollo Backend.
-- Desarrollo Frontend (React, Astro).
-- Diseño de APIs RESTful y GraphQL.
-- Integración con microservicios y arquitecturas distribuidas.
-- Web scraping y automatización.
-- DevOps: CI/CD, Docker, monitoreo y despliegue.
+#### 🛠️ DevOps
+- CI/CD con GitHub Actions o Bitrise.  
+- Docker y despliegue en Firebase, AWS o GCP.  
+- Monitoreo y análisis con Sentry y Firebase Analytics.  
 
 ---
 
 ### 🌱 Actualmente aprendiendo
+- **Móvil Nativo:** SwiftUI (iOS) y Jetpack Compose (Android).  
+- **Multiplataforma:** Kotlin Multiplatform y Flutter.  
+- Arquitectura de aplicaciones móviles: MVVM, Clean Architecture.  
+- Integración de microservicios y backend ligero con Go.  
 
-- Integración de Rust en Backends.
-- Mejorar desarrollos de backends con Go.
-- Escalabilidad en sistemas distribuidos.
+---
+
+### 🛠️ Habilidades principales
+- **Móvil Nativo:** Swift + SwiftUI, Kotlin + Jetpack Compose.  
+- **Multiplataforma:** Kotlin Multiplatform o Flutter (iOS & Android).  
+- **Backend (secundario):** APIs REST/GraphQL con Go, Node.js o Python.  
+- **Web simple:** React / Astro para dashboards o web apps ligeras.  
+- **DevOps y automatización:** CI/CD, Docker, testing, despliegues automáticos.  
+
+---
+
+### 📱 Proyectos destacados
+- **App de e-commerce iOS:** SwiftUI + Firebase, 5k descargas en App Store.  
+- **App Android de productividad:** Kotlin + Jetpack Compose, integración con backend en Go.  
+- **MVP multiplataforma:** Flutter para startup X, disponible en iOS y Android.  
 
 ---
 
@@ -71,4 +90,4 @@
 
 ---
 
-<p align="center">✨ Siempre buscando construir algo increíble.</p>
+<p align="center">✨ Creando aplicaciones móviles nativas y multiplataforma con impacto, con backend ligero como soporte.</p>
